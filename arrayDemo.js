@@ -1,0 +1,12 @@
+var animal;
+animal = ["Cat", "Dog", "Cow"];
+console.log(animal);
+var car;
+car = ["BMW", "TATA", "FORD", "FARARRI"];
+console.log(car);
+var person;
+person = ["Aman", 1, "Bob", 2, "Chaman", 3, "Dogash", 5];
+console.log(person);
+var genricArray;
+genricArray = ["one", 2, true, 3.45];
+console.log(genricArray);
